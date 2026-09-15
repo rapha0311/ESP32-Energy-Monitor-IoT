@@ -8,12 +8,12 @@
 
 ## 📌 Visão Geral do Projeto
 
-Falhas em motores trifásicos devido a sobreaquecimento no enrolamento ou vibração excessiva nos rolamentos geram altos custos de parada não planejada. Este projeto integra a **infraestrutura elétrica de comando** com **IoT (Internet das Coisas)** para monitorar em tempo real a integridade do motor e efetuar o **desarme automático do contator** em casos de anomalia.
+Falhas em motores trifásicos devido a sobreaquecimento no enrolamento ou vibração excessiva nos rolamentos geram altos custos de parada não planejada. Este projeto integra a **infraestrutura elétrica de comando** com **IoT (Internet das Coisas)** para monitorar em tempo real a integridade do motor e efetuar o **desarme do circuito de comando do contator** em condições de falha.
 
 ### 🛠️ Diferenciais da Solução:
-- **Proteção Ativa:** Interrupção do circuito de comando do motor em milissegundos via Módulo Relé.
+- **Proteção Ativa:** Desarme do circuito de comando do contator quando uma condição crítica é detectada.
 - **Telemetria em Nuvem:** Envio constante de métricas via protocolo MQTT para dashboard supervisório.
-- **Manutenção Preditiva:** Identificação antecipada de desgaste em rolamentos por meio de medição de vibração tridimensional.
+- **Monitoramento de Condição:** Utilização de temperatura e vibração como indicadores para diagnóstico de possíveis condições anormais.
 
 ---
 
@@ -63,6 +63,7 @@ Você pode testar e interagir com este projeto diretamente pelo seu navegador at
 
 ## 👨‍💻 Autor
 
-**Raphael Alves Ferreira**  
-*Transição de Carreira: Eletricista de Infraestrutura → Desenvolvedor / Engenheiro IoT*  
+**Raphael Alves Ferreira**
+
+*Desenvolvimento de soluções em Automação Industrial, IoT e sistemas embarcados.*
 - [GitHub](https://github.com/rapha0311)
