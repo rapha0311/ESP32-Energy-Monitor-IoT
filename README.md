@@ -140,7 +140,7 @@ Durante a simulação, os potenciômetros podem ser utilizados para alterar os v
 ## 📈 Dashboard
 
 O ThingsBoard recebe os dados enviados pelo ESP32 e apresenta as informações em um dashboard de monitoramento.
-
+[Dashboard de Monitoramento](src/docs)
 ---
 
 ## 🔄 Fluxo de Funcionamento
