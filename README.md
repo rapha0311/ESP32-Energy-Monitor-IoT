@@ -1,6 +1,6 @@
 ![Demonstração do funcionamento](src/docs/Painel-protecao-motor.gif)
 
-# ⚡ Sistema IoT para Proteção Preditiva e Diagnóstico de Motores Elétricos
+# ⚡ Sistema IoT para Monitoramento e Proteção de Motores Elétricos
 
 > **Protótipo funcional de monitoramento de ativos industriais utilizando ESP32, MQTT e telemetria na nuvem.**
 
