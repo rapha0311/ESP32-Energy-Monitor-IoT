@@ -131,7 +131,7 @@ O dashboard apresenta as informações de monitoramento de forma gráfica e em t
 
 O firmware pode ser executado diretamente no navegador através do Wokwi:
 
-👉 Acessar Simulação no Wokwi
+👉 **[Acessar Simulação Interativa no Wokwi](https://wokwi.com/projects/472703937958391809)**
 
 Durante a simulação, os potenciômetros podem ser utilizados para alterar os valores de tensão e corrente.
 
